@@ -1,8 +1,14 @@
-# danny3_outlawalert
-This is a remake of the esx_outlawalert by Jager_bom. Feel free to do as you like with this resource.
+Edited by SirYavuz
+-New design
+-Waypoint system
+
+# siryavuz_ihbar
+Yenilenmiş tasarım ve olay yerini GPS de işaretleme özelliğine sahip Polis bildirim sistemi.
+
+# Discord
+https://discord.com/invite/6YGkHMd
+
 
 ## Credits
-
-Credits:
-- Jager_bom for his esx_outlawalert                        
-- Stroudy for WF_Alerts   https://forum.cfx.re/t/dev-release-standalone-wf-alerts/1029331
+- https://github.com/Stunn9/danny3_outl... 
+- https://github.com/yordi-a/yordi-alert
