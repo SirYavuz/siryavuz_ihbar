@@ -1,9 +1,10 @@
 Edited by SirYavuz
--New design
--Waypoint system
 
 # siryavuz_ihbar
 Yenilenmiş tasarım ve olay yerini GPS de işaretleme özelliğine sahip Polis bildirim sistemi.
+-New design
+-Waypoint system
+
 
 # Discord
 https://discord.com/invite/6YGkHMd
